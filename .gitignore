@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.whl
+pip-wheel-metadata/
+share/python-wheels/
+.eggs/
+lib/
+lib64/
+MANIFEST
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.*
+
+# pytest / unittest
+.pytest_cache/
+.cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+*.py,cover
+nosetests.xml
+test-results/
+
+# mypy / type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Logs y reportes de corridas
+*.log
+*.out
+*.err
+*.pid
+
+# Profiling
+*.prof
+*.lprof
+
+# Pyinstaller
+*.manifest
+*.spec
+
+# Celery / task queues
+celerybeat-schedule
+celerybeat.pid
+
+# Sphinx
+docs/_build/
+
+# Rope
+.ropeproject/
+
+# Scrapy
+.scrapy
+
+# PyBuilder
+target/
+
+# mkdocs
+/site
+
+# Contribuciones locales
+contrib/
