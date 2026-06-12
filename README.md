@@ -152,7 +152,7 @@ This notebook analyzes the formation, extent, and evolution of subsurface **aqua
 * Comparisons between subsurface habitability and the classical Kopparapu habitable zone.
 * Figures presented in the aquability, habitability, and parametric sensitivity sections of the paper.
 
-### `Geothermical_Evolution.ipynb`
+### `Geothermal_Evolution.ipynb`
 
 This notebook investigates the long-term evolution of subsurface aquability and habitability by coupling the HAB-3D framework with thermal evolution models of rocky planets. Surface heat fluxes are extracted from a planetary thermal evolution grid and used as time-dependent boundary conditions for the geothermal model.
 
