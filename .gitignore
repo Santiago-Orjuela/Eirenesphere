@@ -90,5 +90,10 @@ target/
 # mkdocs
 /site
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # Contribuciones locales
 contrib/
