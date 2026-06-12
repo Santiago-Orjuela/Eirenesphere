@@ -1,0 +1,21 @@
+# NOTE: requires Python >=3.9,<3.13 (burnman depends on numba 0.59, which does not support Python 3.13+)
+# Create the venv with: python3.12 -m venv .venv
+
+# Core científico
+numpy>=1.24,<2.0        # burnman requiere numpy <2.0
+scipy>=1.17.0
+matplotlib>=3.10.0
+pandas>=2.2.2
+
+# Astronomía / constantes físicas
+astropy>=6.1.2
+
+# Propiedades termodinámicas del agua (IAPWS)
+iapws>=1.5.5
+
+# Mineralogía y propiedades de mantos planetarios
+burnman>=2.1.0
+
+# Jupyter
+notebook>=7.0
+ipykernel>=6.0
