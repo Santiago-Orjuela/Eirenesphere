@@ -1,7 +1,9 @@
 # Inside the Eirenesphere: The Interplay of Porosity, Heat Flux and Mineralogy in Exoplanetary Aquable and Habitable Layers
 
 **Authors:** 
+
 Santiago Andres Orjuela Montealegre
+
 Jorge Ivan Zuluaga Callejas
 
 Repository of the study of the **habitability and subsurface Aquability** of Earth-like planets and super-Earths, integrating models of internal structure, thermal evolution and physical criteria for the stability of liquid water.
