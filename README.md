@@ -243,6 +243,26 @@ The analysis extends beyond one-dimensional habitability layers by estimating th
 
 ---
 
+##Data
+
+-
+
+- **`geos.npy`** – Geotherm datasets for an Earth-sized planet (1 $M_\oplus$) with a surface heat flux of 65 mW m$^{-2}$, computed for different lithological and mineralogical compositions.
+
+- **`habitability_vs_distance_earth.npz`** – Data containing the thickness of the aquable layer and the Eirenesphere for an Earth-like planet with the HC2011 composition, as a function of orbital distance from the host star.
+
+- **`habitability_distance_heatflux_grid.npz`** – Parameter-space dataset containing the thickness of the aquable layer and the Eirenesphere for an Earth-like planet with the HC2011 composition, varying both orbital distance and surface heat flux.
+
+- **`habitability_regime_map.npz`** – Dataset identifying the dominant physical mechanism that limits the depth and thickness of the Eirenesphere throughout the explored parameter space.
+
+- **`data_time_1ua.npy`** – Temporal evolution of the aquable layer and Eirenesphere thicknesses for an Earth-like planet with the HC2011 composition located at 1.0 AU, computed over geological timescales.
+
+- **`data_time_15ua.npy`** – Temporal evolution of the aquable layer and Eirenesphere thicknesses for an Earth-like planet with the HC2011 composition located at 1.5 AU, computed over geological timescales.
+
+- **`EVI_cache.pkl`** – Precomputed Eirenesphere Volume Index (EVI) values for rocky planets ranging from mini-Earths to super-Earths with the HC2011 composition, evaluated across a range of surface heat fluxes.
+
+---
+
 ## Paper figures
 
 The table below maps each figure in the paper to the notebook where it is generated.
