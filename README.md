@@ -243,9 +243,7 @@ The analysis extends beyond one-dimensional habitability layers by estimating th
 
 ---
 
-##Data
-
--
+## Data
 
 - **`geos.npy`** – Geotherm datasets for an Earth-sized planet (1 $M_\oplus$) with a surface heat flux of 65 mW m$^{-2}$, computed for different lithological and mineralogical compositions.
 
