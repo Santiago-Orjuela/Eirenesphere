@@ -259,6 +259,12 @@ The analysis extends beyond one-dimensional habitability layers by estimating th
 
 - **`EVI_cache.pkl`** – Precomputed Eirenesphere Volume Index (EVI) values for rocky planets ranging from mini-Earths to super-Earths with the HC2011 composition, evaluated across a range of surface heat fluxes.
 
+### External Dependencies
+
+Planetary structure and thermal evolution models were obtained from:
+
+https://github.com/seap-udea/PlanetaryGrid
+
 ---
 
 ## Paper figures
